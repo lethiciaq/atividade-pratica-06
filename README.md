@@ -2,8 +2,8 @@
 
 | Campo | Informação |
 |---|---|
-| **Aluno(a)** | Seu Nome Completo |
-| **Matrícula** | 2026XXXXXX |
+| **Aluno(a)** | Lethicia Quirino Alves |
+| **Matrícula** | 20260012341 |
 | **Disciplina** | Princípios de Programação I — Ciência de Dados para Negócios — UFPB |
 | **Professor** | Prof. Dr. Hilton Martins de Brito Ramalho |
 
